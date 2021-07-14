@@ -1,0 +1,10 @@
+.preview{
+    overflow-y: scroll;
+}
+.head{
+    margin-bottom: 0;
+    margin-top: 40px;
+}
+img{
+    width: 200px;
+}
