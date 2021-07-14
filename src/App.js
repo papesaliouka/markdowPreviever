@@ -1,6 +1,7 @@
 import './App.css';
 import Editor from './editor/editor'
 import Preview from './preview/preview';
+import {Component} from 'react'
 
 let initialState= `
 # Welcome
